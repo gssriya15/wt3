@@ -1,0 +1,48 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial;
+}
+
+h1 {
+    color: rgb(78, 78, 250);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(99, 99, 162);
+}
+
+h3 {
+    color: rgb(93, 109, 147);
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+    text-align: justify;
+}
+
+table {
+    background-color: #9a639b;
+    width: 100%;
+}
+
+td {
+    text-align: center;
+}
+
+a {
+    color: rgb(142, 62, 62);
+    text-decoration: none;
+}
+
+img {
+    width: 120px;
+}
+
+.content-box {
+    background-color: rgb(206, 90, 90);
+    border: 1px solid rgb(107, 47, 47);
+    margin: 10px;
+    padding: 10px;
+}
